@@ -4,8 +4,8 @@ Towers of Hanoi implemented in LISP.
 
 ### Usage
 
-'''
+```
 (solve n)
-'''
+```
 
 n = # of disks
